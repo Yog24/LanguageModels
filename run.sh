@@ -1,0 +1,1 @@
+python -m src.experiments.run_experiments --mode single --model_type gpt --config_size default
